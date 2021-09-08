@@ -1,0 +1,2 @@
+# online-news-portal
+I worked on online news portal. We named our portal as "Witness Daily" with a motive to provide important and ongoing news on Daily basis. The purpose of Online News Portal is to automate the existing manual system with the help of computerized software. Our news portal allows customers to read up-to-date news related to many fields like technology, culture. business, health, style, science, politics, etc. without any payment. The technology we used here are PHP and MySQL as backend, and HTML, CSS, JS, Bootstrap as frontend.
